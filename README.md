@@ -6,12 +6,12 @@ DABHOLKAR NUZHAT
 CAKE SHOP 
 
 ## Technologies
-1)HTML
+1)HTML\newline
 2)CSS
 3)TAILWIND CSS
 
 ## key learning:
-1)Tailwind components
+1)Tailwind components\newline
 2)Button styling
 3)Responsiveness😀
 
