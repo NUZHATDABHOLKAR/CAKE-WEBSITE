@@ -5,18 +5,18 @@ DABHOLKAR NUZHAT
 ## PROJECT TITLE
 CAKE SHOP 
 
-##Technologies
+## Technologies
 1)HTML
 2)CSS
 3)TAILWIND CSS
 
-##key learning:
+## key learning:
 1)Tailwind components
 2)Button styling
 3)Responsiveness😀
 
 
-##Time Taken
+## Time Taken
 6 hour 😀🙄
 
 ## LINK
