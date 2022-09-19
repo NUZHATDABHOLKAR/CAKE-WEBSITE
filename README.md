@@ -11,8 +11,8 @@ CAKE SHOP
 3)TAILWIND CSS
 
 ## key learning:
-1)Tailwind components\newline
-2)Button styling
+1)Tailwind components<br>
+2)Button styling<br>
 3)Responsiveness😀
 
 
