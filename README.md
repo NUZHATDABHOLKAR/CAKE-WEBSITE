@@ -6,8 +6,8 @@ DABHOLKAR NUZHAT
 CAKE SHOP 
 
 ## Technologies
-1)HTML\newline
-2)CSS
+1)HTML<br>
+2)CSS<br>
 3)TAILWIND CSS
 
 ## key learning:
