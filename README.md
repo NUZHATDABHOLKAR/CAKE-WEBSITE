@@ -1,5 +1,9 @@
-hey, this is the FOURTH project that I have built with a tailwind CSS
 
+## Author
+DABHOLKAR NUZHAT
+
+## PROJECT TITLE
+CAKE SHOP 
 
 ##Technologies
 1)HTML
@@ -15,6 +19,5 @@ hey, this is the FOURTH project that I have built with a tailwind CSS
 ##Time Taken
 6 hour 😀🙄
 
- ##link
- https:https://cakewebsite2.netlify.app/
-
+## LINK
+[CALKE WEBSITE](https://cakewebsite2.netlify.app/)
